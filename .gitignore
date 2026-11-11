@@ -1,0 +1,5 @@
+build/
+*.bmp
+*.ppm
+worlds/
+*.world.tmp
